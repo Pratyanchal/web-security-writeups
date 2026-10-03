@@ -1,28 +1,13 @@
-# **# Web Security Writeups**
-
-
+Web Security Writeups
 
 Writeups from PortSwigger Web Security Academy, written as part of my offensive security learning.
 
 Each one explains the reasoning behind the exploit, not just the payload, and includes remediation.
 
+Progress
 
+SQL Injection: 0 labs completed, in progress
 
-### \## Progress
+Structure
 
-
-
-| Topic | Labs Completed | Status |
-
-|-------|----------------|--------|
-
-| SQL Injection | 0 | In progress |
-
-
-
-\## Structure
-
-\- `<topic>/NN-<arc>.md`: polished writeups, one per arc
-
-\- `<topic>/drafts/`: raw notes, added to after each lab
-
+Each topic has its own folder. Polished writeups sit in the topic folder, one per arc. Raw notes sit in its drafts folder and are added to after each lab.
