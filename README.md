@@ -6,7 +6,7 @@ Each one explains the reasoning behind the exploit, not just the payload, and in
 
 Progress
 
-SQL Injection: 2 labs completed, in progress
+SQL Injection: 6 labs completed, 3 arcs published, in progress
 
 Structure
 
