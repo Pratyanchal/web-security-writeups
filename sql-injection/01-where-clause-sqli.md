@@ -29,7 +29,7 @@ Gifts' OR 1=1--
 
 ## Proof of Exploitation
 
-!\[where clause response](images/where-clause-response.png)
+![where clause response](images/where-clause-response.png)
 
 ## Root Cause and Remediation
 

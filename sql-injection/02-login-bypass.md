@@ -28,7 +28,7 @@ administrator'--
 
 ## Proof of Exploitation
 
-!\[login bypass request](images/login-bypass-request.png)
+![login bypass request](images/login-bypass-request.png)
 
 ## Root Cause and Remediation
 
